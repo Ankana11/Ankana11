@@ -1,17 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Ankana Das 🚀</h1>
-<h3 align="center">Aspiring Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankana11&label=Profile%20views&color=0e75b6&style=flat" alt="ankana11" /> </p>
 
 - 🔭 I’m currently working on **Web & Desktop Applications**
 
-- 🌱 I’m currently learning **Django, NodeJs, ExpressJs**
-
-- 👯 I’m looking to collaborate on **AI Intern**
-
-- 🤝 I’m looking for help with **Voice_News_Assistant**
-
+- 🌱 I’m currently learning **Laravel**
+  
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **reach2ankana@gmail.com**
