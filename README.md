@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/61475220/96919833-f701bb80-14c9-11eb-8eea-1c46ba92b906.jpg)
+![]()
 <h1 align="center">Hi 👋, I'm Ankana Das 🚀</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"
