@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web & Desktop Applications**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Software Engineering**
   
 - 💬 Ask me about **Web Development**
 
